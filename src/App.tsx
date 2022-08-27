@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 const videos = {
   fb:
-    '<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100069083892544%2Fvideos%2F1427241784455077%2F&show_text=0&width=112" width="112" height="150" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" encrypted-media; allowFullScreen="true"></iframe>'
+    '<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100069083892544%2Fvideos%2F1427241784455077%2F&show_text=false&width=224&t=0" width="224" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture="false"; web-share" allowFullScreen="true"></iframe>'
 };
 function Iframe(props: any) {
   return (

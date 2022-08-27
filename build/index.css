@@ -1,0 +1,11 @@
+.flex-container {
+    height: 250px;
+    width: 80%;
+    border: 1px solid black;
+    display: flex;
+}
+
+.item {
+    width: 60%;
+    background: #b4bac0;
+}
