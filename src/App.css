@@ -55,7 +55,10 @@ ol, ul {
   padding: 0;
 }
 .col {
-  flex: 0;
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   padding: 10px;
 }
 
